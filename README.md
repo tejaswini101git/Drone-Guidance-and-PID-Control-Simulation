@@ -10,7 +10,7 @@
 
 This project demonstrates **PID (Proportional–Integral–Derivative) control** for autonomous systems using Python simulations.
 
-The notebook covers:
+The notebook covers::
 
 - 🚁 Drone altitude control
 - 🌬️ Wind disturbance handling
